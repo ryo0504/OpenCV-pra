@@ -1,7 +1,6 @@
 pic_resources
 その他
 OpenCV
-work/
 work/.ipynb_checkpoints/
 *.csv
 work/.ipynb_checkpoints/intro-checkpoint.ipynb
